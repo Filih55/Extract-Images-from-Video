@@ -43,9 +43,6 @@ Untuk memilih file video, ubah alamat direktori dan nama file di dalam kode. Con
 video_path = "F:\RR\Video\tiktok.mp4"
 ```
 
-## Catatan
-
-Mohon maaf atas kesalahan bahasa Inggris dalam komentar kode.
 
 
 ==================================================================================
