@@ -1,15 +1,21 @@
-first you need to install open cv, pip install opencv-python
+Steps to extract images from video:
 
-This file have option to extract the images from vide 
--perdetik file = per seconds
--permenit file = per minutes
--campuran = combine perseconds and perminutes just deleted # to pick one
--main py = extratct video per frame ! becarefull the longger the video the image get extract will be so many
+1. Install OpenCV first:
+   pip install opencv-python
 
-choose file 
-  to choose file just change direktori adress and the name video file name. example F:\RR\Video\tiktok.mp4 
+2. Choose extraction option:
+   - perdetik.py: Extract per second
+   - permenit.py: Extract per minute
+   - campuran.py: Combination of per second and per minute (remove # to select)
+   - main.py: Extract per frame (caution, long videos will produce many images)
 
-LAST = sorry for my bad english ahaha
+3. Select video file:
+   Change the directory address and video file name in the code, example:
+   F:\RR\Video\tiktok.mp4
+
+Note: The longer the video, the more images will be extracted.
+
+Last Note : I apologize for any errors in my English.
 
 ====================================================================================================================
 BAHASA INDONESIA
